@@ -1,19 +1,19 @@
 <scoverage 
-statement-count="15" statements-invoked="11" statement-rate="73.33" branch-rate="50.00" version="1.0" timestamp="1528326886439">
+statement-count="15" statements-invoked="13" statement-rate="86.67" branch-rate="75.00" version="1.0" timestamp="1528327602711">
     <packages>
-        <package name="&lt;empty&gt;" statement-count="15" statements-invoked="11" statement-rate="73.33">
+        <package name="&lt;empty&gt;" statement-count="15" statements-invoked="13" statement-rate="86.67">
             <classes>
                 <class 
-                name="IteratorMethods" filename="IteratorMethods.scala" statement-count="15" statements-invoked="11" statement-rate="73.33" branch-rate="50.00">
+                name="IteratorMethods" filename="IteratorMethods.scala" statement-count="15" statements-invoked="13" statement-rate="86.67" branch-rate="75.00">
                     <methods>
                         <method 
-                        name="&lt;empty&gt;/IteratorMethods/next" statement-count="14" statements-invoked="10" statement-rate="71.43" branch-rate="50.00">
+                        name="&lt;empty&gt;/IteratorMethods/next" statement-count="14" statements-invoked="12" statement-rate="85.71" branch-rate="75.00">
                             <statements>
                                 <statement 
                                 package="&lt;empty&gt;" class="IteratorMethods" class-type="Class" full-class-name="IteratorMethods" source="/home/laufer/Dropbox/Home/Work/teaching/cs372/iterator-testcoverage-scala/src/main/scala/IteratorMethods.scala" method="next" start="280" end="308" line="9" branch="false" invocation-count="1" ignored="false">
 </statement>
                                 <statement 
-                                package="&lt;empty&gt;" class="IteratorMethods" class-type="Class" full-class-name="IteratorMethods" source="/home/laufer/Dropbox/Home/Work/teaching/cs372/iterator-testcoverage-scala/src/main/scala/IteratorMethods.scala" method="next" start="320" end="335" line="10" branch="true" invocation-count="0" ignored="false">
+                                package="&lt;empty&gt;" class="IteratorMethods" class-type="Class" full-class-name="IteratorMethods" source="/home/laufer/Dropbox/Home/Work/teaching/cs372/iterator-testcoverage-scala/src/main/scala/IteratorMethods.scala" method="next" start="320" end="335" line="10" branch="true" invocation-count="1" ignored="false">
 </statement>
                                 <statement 
                                 package="&lt;empty&gt;" class="IteratorMethods" class-type="Class" full-class-name="IteratorMethods" source="/home/laufer/Dropbox/Home/Work/teaching/cs372/iterator-testcoverage-scala/src/main/scala/IteratorMethods.scala" method="next" start="224" end="231" line="7" branch="false" invocation-count="1" ignored="false">
@@ -34,7 +34,7 @@ statement-count="15" statements-invoked="11" statement-rate="73.33" branch-rate=
                                 package="&lt;empty&gt;" class="IteratorMethods" class-type="Class" full-class-name="IteratorMethods" source="/home/laufer/Dropbox/Home/Work/teaching/cs372/iterator-testcoverage-scala/src/main/scala/IteratorMethods.scala" method="next" start="287" end="308" line="9" branch="false" invocation-count="1" ignored="false">
 </statement>
                                 <statement 
-                                package="&lt;empty&gt;" class="IteratorMethods" class-type="Class" full-class-name="IteratorMethods" source="/home/laufer/Dropbox/Home/Work/teaching/cs372/iterator-testcoverage-scala/src/main/scala/IteratorMethods.scala" method="next" start="320" end="335" line="10" branch="false" invocation-count="0" ignored="false">
+                                package="&lt;empty&gt;" class="IteratorMethods" class-type="Class" full-class-name="IteratorMethods" source="/home/laufer/Dropbox/Home/Work/teaching/cs372/iterator-testcoverage-scala/src/main/scala/IteratorMethods.scala" method="next" start="320" end="335" line="10" branch="false" invocation-count="1" ignored="false">
 </statement>
                                 <statement 
                                 package="&lt;empty&gt;" class="IteratorMethods" class-type="Class" full-class-name="IteratorMethods" source="/home/laufer/Dropbox/Home/Work/teaching/cs372/iterator-testcoverage-scala/src/main/scala/IteratorMethods.scala" method="next" start="280" end="308" line="9" branch="true" invocation-count="1" ignored="false">
